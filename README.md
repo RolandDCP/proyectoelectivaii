@@ -2,9 +2,8 @@
 
 ## Integrantes
 
-* Roland David Cedeño Polo [@RolandDCP](https://github.com/RolandDCP)
-* Jharrinson Fornaris
-* Sebastian Bolaño [@Sebas5010](https://github.com/Sebas5010)
+* Ever Junior Gutierrez Gutierrez[@evergutierrez](https://github.com/evergutierrez)
+
 
 
 

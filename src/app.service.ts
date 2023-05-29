@@ -4,7 +4,7 @@ import { Injectable } from '@nestjs/common';
 export class AppService {
   getProducts(limit: number, offset: number): string {
     const until: number = Number(limit)+Number(offset);
-    return 'Productos desde el id ' + offset + ' hasta ' + until;
+    return 'productos desde el id ' + offset + ' hasta ' + until;
   }
   getHelloAndName(name: string): string {
     return this.getHello() + 'tunombre es' +name;
@@ -16,7 +16,7 @@ export class AppService {
   }
 
   getName():String{
-    return 'Mi nombre es Roland';
+    return 'Mi nombre es Ever';
 
   }
 }
