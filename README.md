@@ -1,6 +1,18 @@
+# Proyecto Electiva de Profundización I - Creación de APIS
+
+## Integrantes
+
+* Roland David Cedeño Polo [@RolanDCP](https://github.com/RolandDCP)
+* Jharrinson Fornaris
+* Sebastian Bolaños
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
+
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
