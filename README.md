@@ -4,7 +4,7 @@
 
 * Roland David Cedeño Polo [@RolandDCP](https://github.com/RolandDCP)
 * Jharrinson Fornaris
-* Sebastian Bolaños[@Sebas5010](https://github.com/Sebas5010)
+* Sebastian Bolaño [@Sebas5010](https://github.com/Sebas5010)
 
 
 
