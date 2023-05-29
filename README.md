@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-* Roland David Cedeño Polo [@RolanDCP](https://github.com/RolandDCP)
+* Roland David Cedeño Polo [@RolandDCP](https://github.com/RolandDCP)
 * Jharrinson Fornaris
-* Sebastian Bolaños
+* Sebastian Bolaños[@Sebas5010](https://github.com/Sebas5010)
 
 
 
